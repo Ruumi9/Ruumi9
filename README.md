@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Tailwind and some framwork of JS
+🌱 I’m currently learning Tailwind and some of JS framework
