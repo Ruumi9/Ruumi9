@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Kurumi](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JpYmR6YnB3cXRrdGE1dXVnM3dlc3JsYnpjYnJqc3Jpb2p4NzRidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZCqzyt7lDUDS/giphy.gif)
-🌱 I’m currently learning Tailwind and some of JS framework
+
