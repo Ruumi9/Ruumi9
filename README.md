@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Kurumi](https://media.gifdb.com/kurumi-tokisaki-rotating-b9nakwri4ym9cdl9.gif)
+![Kurumi](img/kurumi.gif)
 
