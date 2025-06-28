@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Kurumi](img/kurumi.gif) -->
-
+<div align='center'>
 <img src="img/kurumi.gif" style="width: 100%; height: auto; max-height: 300px;">
+</div>
 
 ### SKILLS
 
