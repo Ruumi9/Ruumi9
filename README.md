@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Kurumi](img/kurumi.gif)
+<!-- ![Kurumi](img/kurumi.gif) -->
+
+<img src="img/kurumi.gif" width="100%">
 
 ##### SKILLS
 
