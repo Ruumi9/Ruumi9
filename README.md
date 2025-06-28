@@ -1,8 +1,4 @@
-<!-- ## Hi there 👋, Im Rahmat -->
-
-## Hi! I'm Rahmat — I love solving problems with code. Whether it's frontend interactivity or backend logic, I'm always up for the challenge.
-
-<br><br>
+## Hi there 👋, Im Rahmat
 
 <!--
 **Ruumi9/Ruumi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
