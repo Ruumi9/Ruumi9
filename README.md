@@ -1,4 +1,8 @@
-## Hi there 👋, Im Rahmat
+<!-- ## Hi there 👋, Im Rahmat -->
+
+## Hi! I'm Rahmat — I love solving problems with code. Whether it's frontend interactivity or backend logic, I'm always up for the challenge.
+
+<br><br>
 
 <!--
 **Ruumi9/Ruumi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,13 +34,15 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tools & IDEs
 
-![Lazarus](https://img.shields.io/badge/Lazarus-3A8BCD?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white) [![Flamerobin](https://img.shields.io/badge/Flamerobin-217521?style=for-the-badge)](https://flamerobin.org/)
+![Lazarus](https://img.shields.io/badge/Lazarus-3A8BCD?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white) [![Flamerobin](https://img.shields.io/badge/Flamerobin-217521?style=for-the-badge)](https://flamerobin.org/) ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 
 ### 🗄️ Databases
 
 [![Firebird](https://img.shields.io/badge/Firebird-F40D12?logo=Firebird&logoColor=fff&style=for-the-badge)](https://www.firebirdsql.org/) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- <img src="{BadgeURLHere}" /> -->
+
+<br><br>
 
 <h3 align="center">STATS</h3>
 
