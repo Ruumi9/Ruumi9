@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![Kurumi](img/kurumi.gif) -->
 
-<img src="img/kurumi.gif" style="max-width: 100%; height: auto; max-height: 300px;">
+<img src="img/kurumi.gif" style="width: 100%; height: auto; max-height: 300px;">
 
 ### SKILLS
 
