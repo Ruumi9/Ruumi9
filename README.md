@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">STATS</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ruumi9&show_icons=true&theme=radical&&layout=compact" width="420" height="200"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruumi9&layout=compact&theme=radical" width="350" height="200"/>
-</p>
+</p> -->
 
 <!-- ###
 
